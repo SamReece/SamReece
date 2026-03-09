@@ -2,8 +2,6 @@
 
 I'm working inside the Advanced Research Computing Centre at University College London, developing High-Performance Computing, private cloud systems.
 
-![SamReece's Stats](https://github-readme-stats.vercel.app/api?username=SamReece&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,go,python,terraform,bash,linux,aws,azure)](https://skillicons.dev)
 
