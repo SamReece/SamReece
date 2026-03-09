@@ -5,7 +5,7 @@
 I'm working inside the Advanced Research Computing Centre at University College London, developing High-Performance Computing, private cloud systems.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,go,python,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,go,python,terraform,linux,aws,azure)](https://skillicons.dev)
 
 
 <!--
