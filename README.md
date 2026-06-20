@@ -1,4 +1,4 @@
-## Hi, I'm Sam! 👋
+## Hello 👋
 
 I'm working inside the Advanced Research Computing Centre at University College London, developing High-Performance Computing, private cloud systems.
 
